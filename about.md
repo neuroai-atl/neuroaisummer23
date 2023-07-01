@@ -28,10 +28,6 @@ Selections will be made based on availability (enrollment will be limited 30 stu
 
 This event is organized by Eva Dyer, Chethan Pandarinath, and Anqi Wu, and sponsored by the Georgia Tech/Emory Neural Engineering Center and Computational Neural-Engineering Training Program!
 
-## Lecture
-
-Work in Progress
-
 ## Resources
 
 Work in Progress
