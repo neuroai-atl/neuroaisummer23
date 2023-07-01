@@ -16,4 +16,4 @@ August 9-11 2023, Atlanta, GA
 Sponsored by:
 CNTP, Neural Engineering Center
 
-![NeuroAI Logo](images/logo.png | width = 200)
+<img src="images/logo.png" alt="NeuroAI Logo" width="200">
