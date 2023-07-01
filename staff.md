@@ -6,9 +6,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
-
-## Organizers
+## Faculty Organizers
 
 {% assign instructors = site.staffers | where: 'role', 'Associate Professor' %}
 {% for staffer in instructors %}
