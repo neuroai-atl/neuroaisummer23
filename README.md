@@ -8,12 +8,14 @@ seo:
   name: Just the Class
 ---
 
-# 2023 NeuroAI Summer School
-Georgia Tech & Emory University
-
-August 9-11 2023, Atlanta, GA
-
-Sponsored by:
-CNTP, Neural Engineering Center
-
-<img src="logo.png" alt="NeuroAI Logo" width="200">
+<div style="display: flex; align-items: center;">
+  <img src="logo.png" alt="NeuroAI Logo" width="200" style="float: left; margin-right: 20px;">
+  <div>
+    <h1>2023 NeuroAI Summer School</h1>
+    <p>
+      Georgia Tech & Emory University<br>
+      August 9-11, 2023, Atlanta, GA<br>
+      Sponsored by: CNTP, Neural Engineering Center
+    </p>
+  </div>
+</div>

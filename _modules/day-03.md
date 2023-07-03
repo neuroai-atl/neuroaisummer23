@@ -3,15 +3,15 @@ title: Deep-dive discussion - Aug 11, 9a-2p
 
 ---
 
-Aug 9
+Aug 11
 : [ectures and discussion](#)
   : [Files](#)
 
-Aug 9
+Aug 11
 : [Local speakers](#)
   : [Files](#)
 
-Aug 9
+Aug 11
 : [Student talks](#)
   : [Files](#)
 

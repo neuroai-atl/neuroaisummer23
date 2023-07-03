@@ -3,5 +3,5 @@ name: Eva Dyer
 role: Associate Professor
 email: evadyer@gatech.edu
 website: https://dyerlab.gatech.edu/people/pi-profile/
-photo: eva.png
+photo: eva_cropped.png
 ---
