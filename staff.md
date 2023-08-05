@@ -24,18 +24,18 @@ description: A listing of all the course staff members.
 
 ## Teaching Assistants
 
-{% assign instructors = site.staffers | where: 'role', 'Graduate Student' %}
-{% for staffer in instructors %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'Graduate Student' %}
+{% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 
-{% assign instructors = site.staffers | where: 'role', 'Research Specialist' %}
-{% for staffer in instructors %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'Research Specialist' %}
+{% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 
-{% assign instructors = site.staffers | where: 'role', 'Postdoctoral Researcher' %}
-{% for staffer in instructors %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'Postdoctoral Researcher' %}
+{% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 
