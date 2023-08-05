@@ -101,5 +101,4 @@ schedule:
       - name: Concluding Remarks and Feedback; Moderator - Eva Dyer
         start: 1:30 PM
         end: 2:00 PM
-      - name: Closing Remarks
 ---
