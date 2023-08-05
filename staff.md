@@ -8,12 +8,12 @@ description: A listing of all the course staff members.
 
 ## Faculty Organizers
 
-{% assign instructors = site.staffers | where: 'role', 'Associate Professor' %}
+{% assign instructors = site.staffers | where: 'role', 'Assistant Professor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 
-{% assign instructors = site.staffers | where: 'role', 'Assistant Professor' %}
+{% assign instructors = site.staffers | where: 'role', 'Associate Professor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
@@ -24,7 +24,22 @@ description: A listing of all the course staff members.
 
 ## Teaching Assistants
 
-{% for staffer in teaching_assistants %}
+{% assign instructors = site.staffers | where: 'role', 'Graduate Student' %}
+{% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
+
+{% assign instructors = site.staffers | where: 'role', 'Research Specialist' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+{% assign instructors = site.staffers | where: 'role', 'Postdoctoral Researcher' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+<!-- {% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %} -->
