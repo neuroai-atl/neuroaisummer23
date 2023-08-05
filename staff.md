@@ -24,5 +24,5 @@ description: A listing of all the course staff members.
 {% assign teaching_assistants = teaching_assistants | concat: site.staffers | where: 'role', 'Research Specialist' %}
 {% assign teaching_assistants = teaching_assistants | concat: site.staffers | where: 'role', 'Postdoctoral Researcher' %}
 {% for staffer in teaching_assistants %}
-{{ staffer.name }} - {{ staffer.role }}
+{{ staffer }}
 {% endfor %}
