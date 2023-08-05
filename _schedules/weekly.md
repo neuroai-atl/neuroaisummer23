@@ -49,6 +49,7 @@ schedule:
         start: 4:50 PM
         end: 5:00 PM
   - name: Day 2 (8/10) - NeuroAI Methods
+    events:
       - name: Breakfast
         start: 9:00 AM
         end: 9:20 AM
@@ -77,6 +78,7 @@ schedule:
         start: 3:30 PM
         end: 5:00 PM
   - name: Day 3 (8/11) - Talks and Discussions
+    events:
       - name: Breakfast
         start: 8:45 AM
         end: 9:00 AM
