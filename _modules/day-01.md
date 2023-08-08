@@ -1,23 +1,38 @@
 ---
-title: Intro to Deep Learning - Aug 9, 9a-5p
+title: Intro to Deep Learning - Aug 9
 
 ---
 
-Aug 9
-: [Intro lecture - overview](#)
+9:00 AM - 9:30AM
+: [Breakfast and welcome]
+
+9:30AM - 10:30AM
+: [Intro Session - Deep Learning in Neuroscience]
   : [Files](#)
 
-Aug 9
-: [Methods lecture](#)
+10:30AM - 11:10AM
+: [Coffee + Speed Meet-and-Greet Part 1; Moderator - Eva Dyer]
+
+11:15AM - 12:00PM
+: [Intro to Deep Learning - Part 1; Moderator - Eva Dyer]
   : [Files](#)
 
-Aug 9
-: [Hands-on coding session](#)
+12:00PM - 1:00PM
+: [Lunch]
+
+1:00PM - 3:00PM
+: [Intro to Deep Learning - Part 2; Moderator - Eva Dyer]
   : [Files](#)
 
-Aug 9
-: [Research lightning talks - 2 min](#)
+3:00PM - 3:30PM
+: [Coffee + Speed Meet-and-Greet Part 2; Moderator - Eva Dyer]
+
+3:30PM - 4:50PM
+: [Unsupervised Learning - Part 1; Moderator - Anqi Wu]
   : [Files](#)
+
+4:50PM - 5:00PM
+: [Closing Remarks]
 
 
 
