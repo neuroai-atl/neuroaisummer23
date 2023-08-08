@@ -30,6 +30,6 @@ This event is organized by Eva Dyer, Chethan Pandarinath, and Anqi Wu, and spons
 
 ## Resources
 
-Work in Progress
+[Google Drive folder](https://drive.google.com/drive/folders/1N8rqa3fcRQgl5CSpL7zRjxPORK5yaw-F?usp=drive_link])
 
 
