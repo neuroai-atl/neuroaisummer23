@@ -1,6 +1,6 @@
 ---
 name: Weihan Li
-role: Graduate Student
+role: Teaching Assistant
 email: wli704@gatech.edu
 website: 
 photo: weihan.png

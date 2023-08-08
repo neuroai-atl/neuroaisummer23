@@ -1,6 +1,6 @@
 ---
 name: Chris Versteeg
-role: Postdoctoral Researcher
+role: Teaching Assistant
 email: chrissversteeg@gmail.com
 website: 
 photo: chris.png

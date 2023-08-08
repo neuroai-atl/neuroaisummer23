@@ -1,6 +1,6 @@
 ---
 name: Chethan Pandarinath
-role: Assistant Professor
+role: Faculty Organizer
 email: chethan.pandarinath@emory.edu
 website: https://snel.gatech.edu/pi/
 photo: chethan.png
