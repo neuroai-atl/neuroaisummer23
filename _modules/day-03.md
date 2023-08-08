@@ -1,5 +1,5 @@
 ---
-title: Deep-dive discussion - Aug 11
+title: Talks and discussions - Aug 11
 
 ---
 
@@ -7,16 +7,16 @@ title: Deep-dive discussion - Aug 11
 : Breakfast
 
 9:00AM-10:00AM
-: Trainee Talks - Ran Liu, Briana Karpowicz; Moderator - Chethan Pandarinath
+: Trainee Talks - Ran Liu, Briana Karpowicz; Instructor - Chethan Pandarinath
 
 10:00AM-10:15AM
 : Coffee Break
 
 10:15AM-10:55PM
-: Discussion Session, Moderator - Anqi Wu
+: Discussion Session, Instructor - Anqi Wu
 
 11:00AM-12:00PM
-: Discussion Session, Moderator - Anqi Wu
+: Discussion Session, Instructor - Anqi Wu
 
 1:00PM-1:30PM
 : Guest Lecture - Zsolt Kira 
@@ -25,10 +25,10 @@ title: Deep-dive discussion - Aug 11
 : Lunch
 
 1:00PM-1:30PM
-: NeuroAI Community Discussion; Moderator - Eva Dyer
+: NeuroAI Community Discussion; Instructor - Eva Dyer
 
 1:30PM-2:00PM
-: Concluding Remarks and Feedback; Moderator - Eva Dyer
+: Concluding Remarks and Feedback; Instructor - Eva Dyer
 
 
 
