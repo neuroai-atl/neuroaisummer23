@@ -1,27 +1,39 @@
 ---
-title: NeuroAI Methods - Aug 10, 9a-5p
+title: NeuroAI Methods - Aug 10
 
 ---
 
-Aug 10
-: [Intro lecture](#)
+9:00AM-9:20AM
+: Breakfast
+
+9:20AM-10:00AM
+: Unsupervised Learning - Part 2; Moderator - Anqi Wu 
   : [Files](#)
 
-Aug 10
-: [Methods lecture (1) - Unsupervised / Dimensionality Red / Autoencoders](#)
+10:00AM-10:10AM
+: Coffee Break
+
+10:20AM-12:00PM
+: Unsupervised Learning - Coding Session
   : [Files](#)
 
-Aug 10
-: [Hands-on coding session](#)
+12:00PM-1:00PM
+: Lunch
+
+1:00PM-1:30PM
+: Lightning Talks - Part 1; Moderator - Anqi Wu 
   : [Files](#)
 
-Aug 10
-: [Methods lecture (2) - Time series & RNNs](#)
+1:30PM-3:00PM
+: Transformers in Neuroscience
   : [Files](#)
 
-Aug 10
-: [Hands-on coding session](#)
+3:00PM-3:30PM
+: Lightning Talks - Part 2; Moderator - Anqi Wu 
   : [Files](#)
+
+3:30PM-5:00PM
+: Closing Remarks
 
 
 

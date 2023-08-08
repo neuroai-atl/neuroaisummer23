@@ -3,7 +3,7 @@ title: Intro to Deep Learning - Aug 9
 
 ---
 
-9:00 AM-9:30AM
+9:00AM-9:30AM
 : Breakfast and welcome
 
 9:30AM-10:30AM
