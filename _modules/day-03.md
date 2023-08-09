@@ -16,8 +16,7 @@ title: Talks and Discussions - Aug 11
 : Discussion Session, Moderator\: Anqi Wu
 
 11:00AM-12:00PM
-: Guest Lecture\: Zsolt Kira 
-	:[Website](https://faculty.cc.gatech.edu/~zk15/)
+: Guest Lecture\: Zsolt Kira - [Website](https://faculty.cc.gatech.edu/~zk15/)
 
 12:00PM-1:00PM
 : Lunch
