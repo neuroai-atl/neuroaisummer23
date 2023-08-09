@@ -17,6 +17,7 @@ title: Talks and Discussions - Aug 11
 
 11:00AM-12:00PM
 : Guest Lecture\: Zsolt Kira 
+	:[Website](https://faculty.cc.gatech.edu/~zk15/)
 
 12:00PM-1:00PM
 : Lunch
