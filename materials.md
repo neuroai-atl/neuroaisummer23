@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Schedule
-description: Listing of course modules and topics.
+title: Materials
+description: Listing of course materials
 ---
 
-# Schedule
+# Materials
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+## 
+
+[Google Drive folder](https://drive.google.com/drive/folders/1N8rqa3fcRQgl5CSpL7zRjxPORK5yaw-F?usp=drive_link)
