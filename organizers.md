@@ -10,7 +10,7 @@ description: A listing of all the course staff members.
 
 {% assign instructors = site.staffers | where: 'role', 'Faculty Organizer' %}
 {% for staffer in instructors %}
-- [{{ staffer.name }}]({{ staffer.website }})
+- {{ staffer }}
   Affiliation: {{ staffer.affiliation }}
 {% endfor %}
 
