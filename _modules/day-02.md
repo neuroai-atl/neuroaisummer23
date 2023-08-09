@@ -28,7 +28,7 @@ title: NeuroAI Methods - Aug 10
 : Lightning Talks - Part 2; Moderator\: Anqi Wu 
 
 3:30PM-4:50PM
-: Transformers - Coding Session; Instructor\: Chethan Pandarinath
+: Transformers - Coding Session; Instructor\: TAs
 
 4:50PM-5:00PM
 : Closing remarks
