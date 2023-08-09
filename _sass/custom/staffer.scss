@@ -14,6 +14,10 @@
     margin: $sp-1 !important;
   }
 
+  .staffer-affiliation {
+    margin: $sp-1 0
+  }
+
   .staffer-pronouns {
     @extend .label, .text-grey-dk-100, .bg-grey-lt-200;
 
