@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-## About
+# About
 
 We will host the first GT/Emory NeuroAI Summer School from Wed Aug 9 - Fri Aug 11, 2023. The workshop will be held at The Hatchery at Emory.
 
