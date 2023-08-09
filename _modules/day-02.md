@@ -19,16 +19,19 @@ title: NeuroAI Methods - Aug 10
 : Lunch
 
 1:00PM-1:30PM
-: Lightning Talks - Part 1; Instructor - Anqi Wu 
+: Lightning Talks - Part 1; Moderator - Anqi Wu 
 
 1:30PM-3:00PM
-: Transformers in Neuroscience
+: Transformers in Neuroscience; Instructor - Chethan Pandarinath
 
 3:00PM-3:30PM
-: Lightning Talks - Part 2; Instructor - Anqi Wu 
+: Lightning Talks - Part 2; Moderator - Anqi Wu 
 
-3:30PM-5:00PM
-: Closing Remarks
+3:30PM-4:50PM
+: Transformers - Coding Session; Instructor - Chethan Pandarinath
+
+4:50PM-5:00PM
+: Closing remarks
 
 
 
