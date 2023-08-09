@@ -10,7 +10,7 @@ title: Intro to Deep Learning - Aug 9
 : Intro Session - Deep Learning in Neuroscience
 
 10:30AM-11:10AM
-: Speed Meet-and-Greet Part 1; Moderator - Eva Dyer
+: Speed Meet-and-Greet Part 1; Moderator\: Eva Dyer
 
 11:15AM-12:00PM
 : Intro to Deep Learning - Part 1; Instructor - Eva Dyer
