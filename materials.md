@@ -7,7 +7,23 @@ description: Listing of course materials
 # Materials
 
 
-[Google Drive folder](https://drive.google.com/drive/folders/1N8rqa3fcRQgl5CSpL7zRjxPORK5yaw-F?usp=drive_link)
+1. Intro to Deep Learning
+   * [Notebook](https://drive.google.com/file/d/12Aa8gLcwFYp0xI1Y0PLEv1e7yLNMCcdc/view?usp=drive_link)
+
+2. Unsupervised Learning
+   * [Notebook](https://drive.google.com/file/d/1RRmHJP2FQfIeBiHkq4jGMLW0sZ0LJwXJ/view?usp=drive_link)
+   * [Dataset](https://drive.google.com/file/d/15L-ojLMN7myv7xa1YZq9JZrhlUnjhYYF/view?usp=drive_link)
+   * [Solutions](   https://drive.google.com/file/d/1j4rxMA7GD-LFF1UwfO13sJvISGxsKxZb/view?usp=drive_link)
+  
+3. Transformers
+   * [Notebook](https://drive.google.com/file/d/1qtTWOUa9aQZBQmOB82znSamc7btvRPdy/view?usp=drive_link)
+   * [Solutions](https://drive.google.com/file/d/1m05xEqy-bVuJr9QtFcZCZkA42wb1Vc6w/view?usp=drive_link)
+
+4. Additional Resources
+   * [Classification Intro](https://drive.google.com/file/d/1qtTWOUa9aQZBQmOB82znSamc7btvRPdy/view?usp=drive_link)
+   * [Linear Algebra](https://drive.google.com/file/d/1gVUbJ3B4_XBJZzK8HaSWtodrOWE5-EGp/view?usp=drive_link)
+   * [Dimensionality Reduction](https://drive.google.com/file/d/1BIDbde0Fxt5VpLOBu8BK-wv746fxq7-H/view?usp=drive_link)
+
 
 We will use Google Colab to execute the tutorials and code that we will use in the course. To make sure that we can hit the ground running, please complete the following before the start of the course:
 
